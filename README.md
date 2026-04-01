@@ -54,11 +54,7 @@ Loaded model from epoch 15 with Dice: 0.6304
 ### Training Curves — Loss & Metrics over 50 Epochs
 ![Training Curves](training_curves.png)
 
-### Clinical Evaluation Map
-![Clinical Evaluation](clinical_evaluation_map.png)
 
-### Medical Overlay Visualization
-![Medical Overlay](final_medical_overlay.png)
 
 ---
 
